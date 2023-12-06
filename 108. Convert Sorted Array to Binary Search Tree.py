@@ -9,3 +9,4 @@ class Solution:
                       build(m + 1, r))
 
     return build(0, len(nums) - 1)
+  
